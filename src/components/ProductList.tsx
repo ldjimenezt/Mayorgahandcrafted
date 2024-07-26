@@ -32,7 +32,7 @@ const ProductList = () => {
           Discover our Backpack Collection: durable, stylish, and designed for
           everyday use. Perfect for work, school, or travel.
         </div>
-        <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-lama hover:text-white">Add to Cart</button>
+        <button className="rounded-md bg-black border border-black text-white w-max py-2 px-4 text-xs hover:bg-transparent hover:text-black">Add to Cart</button>
       </Link>
       <Link
         href="/test"
@@ -62,7 +62,7 @@ const ProductList = () => {
           Discover our Backpack Collection: durable, stylish, and designed for
           everyday use. Perfect for work, school, or travel.
         </div>
-        <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-lama hover:text-white">Add to Cart</button>
+        <button className="rounded-md bg-black border border-black text-white w-max py-2 px-4 text-xs hover:bg-transparent hover:text-black">Add to Cart</button>
       </Link>
       <Link
         href="/test"
@@ -92,7 +92,7 @@ const ProductList = () => {
           Discover our Backpack Collection: durable, stylish, and designed for
           everyday use. Perfect for work, school, or travel.
         </div>
-        <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-lama hover:text-white">Add to Cart</button>
+        <button className="rounded-md bg-black border border-black text-white w-max py-2 px-4 text-xs hover:bg-transparent hover:text-black">Add to Cart</button>
       </Link>
       <Link
         href="/test"
@@ -122,7 +122,7 @@ const ProductList = () => {
           Discover our Backpack Collection: durable, stylish, and designed for
           everyday use. Perfect for work, school, or travel.
         </div>
-        <button className="rounded-2xl ring-1 ring-lama text-lama w-max py-2 px-4 text-xs hover:bg-lama hover:text-white">Add to Cart</button>
+        <button className="rounded-md bg-black border border-black text-white w-max py-2 px-4 text-xs hover:bg-transparent hover:text-black">Add to Cart</button>
       </Link>
       
     </div>

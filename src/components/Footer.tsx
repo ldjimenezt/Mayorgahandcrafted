@@ -83,7 +83,7 @@ const Footer = () => {
                 aria-label="Email address"
                 required
               />
-              <button type="submit" className="w-1/4 bg-lama text-white rounded-r-lg">JOIN</button>
+              <button type="submit" className="w-1/4 bg-black text-white rounded-r-lg">JOIN</button>
             </form>
           </div>
           <span className="font-semibold">Secure Payments</span>
